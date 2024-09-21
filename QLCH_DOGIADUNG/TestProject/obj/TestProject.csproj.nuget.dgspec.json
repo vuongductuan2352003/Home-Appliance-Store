@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\TestProject\\TestProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\BUS\\BUS.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\BUS\\BUS.csproj",
+        "projectName": "BUS",
+        "projectPath": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\BUS\\BUS.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DAL\\DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DAL\\DAL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DTO\\DTO.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DTO\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DTO\\DTO.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\QLCH_DOGIADUNG\\GUI.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\QLCH_DOGIADUNG\\GUI.csproj",
+        "projectName": "GUI",
+        "projectPath": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\QLCH_DOGIADUNG\\GUI.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\BUS\\BUS.csproj": {
+                "projectPath": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\BUS\\BUS.csproj"
+              },
+              "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\TestProject\\TestProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\TestProject\\TestProject.csproj",
+        "projectName": "TestProject",
+        "projectPath": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\TestProject\\TestProject.csproj",
+        "packagesPath": "C:\\Users\\vuong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\TestProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\BUS\\BUS.csproj": {
+                "projectPath": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\BUS\\BUS.csproj"
+              },
+              "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\DTO\\DTO.csproj"
+              },
+              "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\QLCH_DOGIADUNG\\GUI.csproj": {
+                "projectPath": "C:\\Users\\vuong\\source\\repos\\QLCH_DOGIADUNG\\QLCH_DOGIADUNG\\GUI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1001, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

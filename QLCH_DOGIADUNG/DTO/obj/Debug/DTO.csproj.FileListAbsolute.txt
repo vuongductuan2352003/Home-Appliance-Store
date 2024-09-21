@@ -1,0 +1,6 @@
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\DTO\bin\Debug\DTO.dll
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\DTO\bin\Debug\DTO.pdb
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\DTO\obj\Debug\DTO.dll
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\DTO\obj\Debug\DTO.pdb

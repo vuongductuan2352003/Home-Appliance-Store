@@ -1,0 +1,11 @@
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\BUS\bin\Debug\BUS.dll
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\BUS\bin\Debug\BUS.pdb
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\BUS\bin\Debug\DAL.dll
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\BUS\bin\Debug\DTO.dll
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\BUS\bin\Debug\DAL.pdb
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\BUS\bin\Debug\DTO.pdb
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\BUS\obj\Debug\BUS.dll
+C:\Users\vuong\source\repos\QLCH_DOGIADUNG\BUS\obj\Debug\BUS.pdb
